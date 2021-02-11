@@ -1553,7 +1553,7 @@
     {
       "title": "iMac Pro \"10-Core\" 3.0 27-Inch (5K, Late 2017)",
       "intro": "2017-11-14",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MHLV3LL/A*",
       "model": "A1862 (EMC 3144)",
       "family": "iMac Pro, Late 2017"
@@ -1561,7 +1561,7 @@
     {
       "title": "iMac Pro \"14-Core\" 2.5 27-Inch (5K, Late 2017)",
       "intro": "2017-11-14",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO",
       "model": "A1862 (EMC 3144)",
       "family": "iMac Pro, Late 2017"
@@ -1569,7 +1569,7 @@
     {
       "title": "iMac Pro \"18-Core\" 2.3 27-Inch (5K, Late 2017)",
       "intro": "2017-11-14",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO",
       "model": "A1862 (EMC 3144)",
       "family": "iMac Pro, Late 2017"
@@ -1871,7 +1871,7 @@
     {
       "title": "iMac 21.5-Inch \"Core i5\" 2.3 (Mid-2017)",
       "intro": "2017-05-05",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MMQA2LL/A*",
       "model": "A1418 (EMC 3068)",
       "family": "Mid-2017"
@@ -1903,7 +1903,7 @@
     {
       "title": "iMac 21.5-Inch \"Core i3\" 3.6 (4K, 2019)",
       "intro": "2019-02-19",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MRT32LL/A*",
       "model": "A2116 (EMC 3195)",
       "family": "Retina 4K, 21.5-Inch, 2019"
@@ -1911,7 +1911,7 @@
     {
       "title": "iMac 21.5-Inch \"Core i5\" 3.0 (4K, 2019)",
       "intro": "2019-02-19",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MRT42LL/A*",
       "model": "A2116 (EMC 3195)",
       "family": "Retina 4K, 21.5-Inch, 2019"
@@ -1919,7 +1919,7 @@
     {
       "title": "iMac 21.5-Inch \"Core i7\" 3.2 (4K, 2019)",
       "intro": "2019-02-19",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO",
       "model": "A2116 (EMC 3195)",
       "family": "Retina 4K, 21.5-Inch, 2019"
@@ -2251,7 +2251,7 @@
     {
       "title": "iMac 27-Inch \"Core i5\" 3.1 (5K, 2020)",
       "intro": "2020-07-04",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MXWT2LL/A",
       "model": "A2115 (EMC 3442)",
       "family": "Retina 5K, 27-Inch, 2020"
@@ -2259,7 +2259,7 @@
     {
       "title": "iMac 27-Inch \"Core i5\" 3.3 (5K, 2020)",
       "intro": "2020-07-04",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MXWU2LL/A",
       "model": "A2115 (EMC 3442)",
       "family": "Retina 5K, 27-Inch, 2020"
@@ -2267,7 +2267,7 @@
     {
       "title": "iMac 27-Inch \"Core i7\" 3.8 (5K, 2020)",
       "intro": "2020-07-04",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MXWV2LL/A",
       "model": "A2115 (EMC 3442)",
       "family": "Retina 5K, 27-Inch, 2020"
@@ -2275,7 +2275,7 @@
     {
       "title": "iMac 27-Inch \"Core i9\" 3.6 (5K, 2020)",
       "intro": "2020-07-04",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO",
       "model": "A2115 (EMC 3442)",
       "family": "Retina 5K, 27-Inch, 2020"
@@ -2283,7 +2283,7 @@
     {
       "title": "iMac 27-Inch \"Core i7\" 3.8 (5K, 2020; 5700/XT)",
       "intro": "2020-07-04",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO",
       "model": "A2115 (EMC 3442)",
       "family": "Retina 5K, 27-Inch, 2020"
@@ -2291,7 +2291,7 @@
     {
       "title": "iMac 27-Inch \"Core i9\" 3.6 (5K, 2020; 5700/XT)",
       "intro": "2020-07-04",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO",
       "model": "A2115 (EMC 3442)",
       "family": "Retina 5K, 27-Inch, 2020"
@@ -2751,7 +2751,7 @@
     {
       "title": "MacBook Air \"M1\" 8-Core 3.2/7-Core GPU 13\"",
       "intro": "2020-10-10",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MGN63LL/A*",
       "model": "A2337 (EMC 3598)",
       "family": "M1, 2020"
@@ -2759,7 +2759,7 @@
     {
       "title": "MacBook Air \"M1\" 8-Core 3.2/8-Core GPU 13\"",
       "intro": "2020-10-10",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MGN73LL/A*",
       "model": "A2337 (EMC 3598)",
       "family": "M1, 2020"
@@ -3097,7 +3097,7 @@
     {
       "title": "MacBook Pro 13-Inch \"Core i5\" 2.0 2020 4 TB 3",
       "intro": "2020-04-04",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MWP72LL/A*",
       "model": "A2251 (EMC 3348)",
       "family": "2020 13\" (4 TB 3)"
@@ -3105,7 +3105,7 @@
     {
       "title": "MacBook Pro 13-Inch \"Core i7\" 2.3 2020 4 TB 3",
       "intro": "2020-04-04",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO",
       "model": "A2251 (EMC 3348)",
       "family": "2020 13\" (4 TB 3)"
@@ -3113,7 +3113,7 @@
     {
       "title": "MacBook Pro 13-Inch \"M1\" 8-Core 3.2 (2020)",
       "intro": "2020-10-10",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MYDA2LL/A*",
       "model": "A2338 (EMC 3578)",
       "family": "M1, 2020"
@@ -3691,7 +3691,7 @@
     {
       "title": "MacBook Pro 16-Inch \"Core i7\" 2.6 2019",
       "intro": "2019-10-13",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MVVL2LL/A*",
       "model": "A2141 (EMC 3347)",
       "family": "2019 16\""
@@ -3699,7 +3699,7 @@
     {
       "title": "MacBook Pro 16-Inch \"Core i9\" 2.3 2019",
       "intro": "2019-10-13",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MVVM2LL/A*",
       "model": "A2141 (EMC 3347)",
       "family": "2019 16\""
@@ -3707,7 +3707,7 @@
     {
       "title": "MacBook Pro 16-Inch \"Core i9\" 2.4 2019",
       "intro": "2019-10-13",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO",
       "model": "A2141 (EMC 3347)",
       "family": "2019 16\""
@@ -3715,7 +3715,7 @@
     {
       "title": "MacBook Pro 16-Inch \"Core i7\" 2.6 2019 5600M",
       "intro": "2020-05-15",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO",
       "model": "A2141 (EMC 3347)",
       "family": "2019 16\""
@@ -3723,7 +3723,7 @@
     {
       "title": "MacBook Pro 16-Inch \"Core i9\" 2.3 2019 5600M",
       "intro": "2020-05-15",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO",
       "model": "A2141 (EMC 3347)",
       "family": "2019 16\""
@@ -3731,7 +3731,7 @@
     {
       "title": "MacBook Pro 16-Inch \"Core i9\" 2.4 2019 5600M",
       "intro": "2020-05-15",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO",
       "model": "A2141 (EMC 3347)",
       "family": "2019 16\""
@@ -4239,7 +4239,7 @@
     {
       "title": "Mac mini \"Core i5\" 3.0 (Late 2018)",
       "intro": "2018-09-30",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MRTT2LL/A*",
       "model": "A1993 (EMC 3213)",
       "family": "2018"
@@ -4247,7 +4247,7 @@
     {
       "title": "Mac mini \"Core i7\" 3.2 (Late 2018)",
       "intro": "2018-09-30",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO",
       "model": "A1993 (EMC 3213)",
       "family": "2018"
@@ -4255,7 +4255,7 @@
     {
       "title": "Mac mini Developer Transition Kit (DTK)",
       "intro": "2020-05-22",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MYAL2LL/A",
       "model": "A2330 (EMC 3568)",
       "family": "Apple DTK"
@@ -4263,7 +4263,7 @@
     {
       "title": "Mac mini \"M1\" 8-Core 3.2 (2020)",
       "intro": "2020-10-10",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "MGNR3LL/A*",
       "model": "A2348 (EMC 3569)",
       "family": "M1, 2020"
@@ -4593,7 +4593,7 @@
     {
       "title": "Mac Pro \"Eight Core\" 3.5 (2019)",
       "intro": "2019-05-03",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO*",
       "model": "A1991 (EMC 3203)",
       "family": "2019"
@@ -4601,7 +4601,7 @@
     {
       "title": "Mac Pro \"12-Core\" 3.3 (2019)",
       "intro": "2019-05-03",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO*",
       "model": "A1991 (EMC 3203)",
       "family": "2019"
@@ -4609,7 +4609,7 @@
     {
       "title": "Mac Pro \"16-Core\" 3.2 (2019)",
       "intro": "2019-05-03",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO*",
       "model": "A1991 (EMC 3203)",
       "family": "2019"
@@ -4617,7 +4617,7 @@
     {
       "title": "Mac Pro \"24-Core\" 2.7 (2019)",
       "intro": "2019-05-03",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO*",
       "model": "A1991 (EMC 3203)",
       "family": "2019"
@@ -4625,7 +4625,7 @@
     {
       "title": "Mac Pro \"28-Core\" 2.5 (2019)",
       "intro": "2019-05-03",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO*",
       "model": "A1991 (EMC 3203)",
       "family": "2019"
@@ -4633,7 +4633,7 @@
     {
       "title": "Mac Pro \"Eight Core\" 3.5 (2019 - Rack)",
       "intro": "2019-05-03",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO*",
       "model": "A2304 (EMC 3413)",
       "family": "2019"
@@ -4641,7 +4641,7 @@
     {
       "title": "Mac Pro \"12-Core\" 3.3 (2019 - Rack)",
       "intro": "2019-05-03",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO*",
       "model": "A2304 (EMC 3413)",
       "family": "2019"
@@ -4649,7 +4649,7 @@
     {
       "title": "Mac Pro \"16-Core\" 3.2 (2019 - Rack)",
       "intro": "2019-05-03",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO*",
       "model": "A2304 (EMC 3413)",
       "family": "2019"
@@ -4657,7 +4657,7 @@
     {
       "title": "Mac Pro \"24-Core\" 2.7 (2019 - Rack)",
       "intro": "2019-05-03",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO*",
       "model": "A2304 (EMC 3413)",
       "family": "2019"
@@ -4665,7 +4665,7 @@
     {
       "title": "Mac Pro \"28-Core\" 2.5 (2019 - Rack)",
       "intro": "2019-05-03",
-      "disc": "NaN-NaN-NaN",
+      "disc": "N/A",
       "order": "BTO/CTO*",
       "model": "A2304 (EMC 3413)",
       "family": "2019"
