@@ -1,28 +1,41 @@
+class LinkedListNode {
+    constructor(value, next = null) {
+        this.value = value;
+        this.next = next;
+    }
+}
+
 class LinkedList {
     constructor() {
         this.head = null;
+        this.tail = null;
     }
 
     unshift(value) {
-        this.head = {
-            value,
-            next: this.head,
-        };
+        const node = new LinkedListNode(value, this.head);
+        this.head = node;
+
+        if (!this.tail) {
+            this.tail = node;
+        }
 
         return this;
     }
 
     push(value) {
-        // let node = this.head;
-        //
-        // while (node) {
-        //     if (node.next === null) {
-        //
-        //     }
-        //     node = node.next;
-        // }
-        //
-        // return this;
+        let node = new LinkedListNode(value);
+
+        if (!this.head || !this.tail) {
+            this.head = node;
+            this.tail = node;
+
+            return this;
+        }
+
+        this.tail.next = node;
+        this.tail = node;
+
+        return this;
     }
 
     remove(value) {
@@ -72,12 +85,10 @@ class LinkedList {
 
     map(func) {
         let newList = new LinkedList();
-        let node = this.head;
         let index = 0;
 
-        while (node) {
-            newList.unshift(func(node.value, index, this.head));
-            node = node.next;
+        for (let node = this.head; node !== null; node = node.next) {
+            newList.push(func(node.value, index, this.head));
             index++;
         }
 
@@ -94,14 +105,12 @@ class LinkedList {
 
     filter(func) {
         let newList = new LinkedList();
-        let node = this.head;
         let index = 0;
 
-        while (node) {
+        for (let node = this.head; node !== null; node = node.next) {
             if (func(node.value, index, this.head)) {
-                newList.unshift(node.value);
+                newList.push(node.value);
             }
-            node = node.next;
             index++;
         }
 
