@@ -1,18 +1,18 @@
-class LinkedListNode {
+class LinkedListNode_ {
     constructor(value, next = null) {
-        this.value = value;
+        L this.value = value;
         this.next = next;
     }
 }
 
-class LinkedList {
+class LinkedList2 {
     constructor() {
         this.head = null;
         this.tail = null;
     }
 
     unshift(value) {
-        const node = new LinkedListNode(value, this.head);
+        const node = new LinkedListNode_(value, this.head);
         this.head = node;
 
         if (!this.tail) {
@@ -23,7 +23,7 @@ class LinkedList {
     }
 
     push(value) {
-        let node = new LinkedListNode(value);
+        let node = new LinkedListNode_(value);
 
         if (!this.head || !this.tail) {
             this.head = node;
@@ -88,7 +88,7 @@ class LinkedList {
         let index = 0;
 
         for (let node = this.head; node !== null; node = node.next) {
-            newList.push(func(node.value, index, this.head));
+            newList.unshift(func(node.value, index, this.head));
             index++;
         }
 
@@ -163,5 +163,3 @@ linkedList.unshift(1).unshift(2).unshift(3).unshift(4).unshift(5).unshift(6).uns
 
 
 // console.log(linkedList.reduce((acc, curr) => acc + curr));
-
-
